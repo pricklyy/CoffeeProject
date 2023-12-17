@@ -1,7 +1,7 @@
-module.exports = {
-  project: {
-    ios: {
-      automaticPodsInstallation: true
-    }
-  }
-}
+module.export = {
+    projects: {
+      ios:{},
+      android: {},
+    },
+    assets: ['./src/assets'],
+};
